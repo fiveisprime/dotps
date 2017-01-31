@@ -11,10 +11,6 @@ function ga () {
     git add $args
 }
 
-function gc () {
-    git commit $args
-}
-
 function grhh () {
     git reset HEAD --hard
 }
